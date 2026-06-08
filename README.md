@@ -195,7 +195,7 @@ This solution demonstrates how artificial intelligence and databases can be comb
 
 **Victoria Riley**
 
-Data Analyst | Marketing Systems Administrator | Business Analytics Graduate Student
+Graduate Student | Data Analytics & Predictive Modeling
 
 GitHub: [@vriley31](https://github.com/vriley31)
 
